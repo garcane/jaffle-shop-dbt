@@ -1,0 +1,8 @@
+# ---------------------------------------------------------------------------
+# Language detection
+# ---------------------------------------------------------------------------
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.SQL linguist-detectable=true
+*.SQL linguist-language=sql
+
